@@ -1,5 +1,5 @@
 # backpropagation
-In the Deep Learning Library (nn folder)
+In the Deep Learning Library (net folder)
 * Tensors
 * Loss Functions
 * Layers
