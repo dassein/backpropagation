@@ -9,4 +9,5 @@ In the Deep Learning Library (net folder)
 * Training
 
 The backpropagation rule is integrated into the library
+
 The library is based on the project of joelgrus: https://github.com/joelgrus/joelnet
